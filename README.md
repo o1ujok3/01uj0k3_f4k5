@@ -19,7 +19,7 @@ An about/contact section
 A footer section
 
 Installation
-N/A
+Clone the repo from github and run it on your local machine
 
 Usage
 N/A

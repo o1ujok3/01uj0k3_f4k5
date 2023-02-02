@@ -3,7 +3,7 @@
 Description
 Link to deployed webpage:
 
-This week's challenge was to create a portfolio webpage using Bootstrap to encompass the following items:
+This is my personal portfolio which has been created using HTML, CSS and bootstrap as required by the guidlines for this challenge. This portfolio will be updated with my completed projects once I have finished the course. Using Bootstrap, the following components were added:
 A navigation bar
 
 A navigation menu at the top

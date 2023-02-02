@@ -1,7 +1,7 @@
 # Olujoke's Portfolio - Bootstrap
 
 Description
-Link to deployed webpage:
+Link to deployed webpage: https://o1ujok3.github.io/01uj0k3_f4k5/
 
 This is my personal portfolio which has been created using HTML, CSS and bootstrap as required by the guidlines for this challenge. This portfolio will be updated with my completed projects once I have finished the course. Using Bootstrap, the following components were added:
 A navigation bar

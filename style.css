@@ -45,7 +45,7 @@ section div .row {
 }
 
 .card-img-top {
-    width: 500px;
+    width: 350px;
     margin: auto;
     border: 1px dotted grey;
     height: 50vh;
@@ -59,7 +59,7 @@ section div .row {
 }
 
 .card:hover {
-    transform: scale(1.5);
+    transform: scale(1.3);
 
 }
 
